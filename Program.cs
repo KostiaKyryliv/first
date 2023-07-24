@@ -10,7 +10,27 @@ namespace again
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Love");
+            string password;
+            Console.WriteLine("Enter password: ");
+            password = Console.ReadLine();
+            if(password == "love")
+            {
+                System.Console.WriteLine("I love you too");
+            }
+            else
+            {
+                while(password != "love")
+                {
+                    System.Console.WriteLine("enter again");
+                    string newpassword = Console.ReadLine();
+                        if(newpassword == "love")
+                        {
+                            System.Console.WriteLine("I love you too");
+                            break;
+                        }
+                }
+            }
+        
         }
     }
 }
