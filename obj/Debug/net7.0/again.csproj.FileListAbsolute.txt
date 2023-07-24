@@ -1,0 +1,15 @@
+D:\projgit\again\bin\Debug\net7.0\again.exe
+D:\projgit\again\bin\Debug\net7.0\again.deps.json
+D:\projgit\again\bin\Debug\net7.0\again.runtimeconfig.json
+D:\projgit\again\bin\Debug\net7.0\again.dll
+D:\projgit\again\bin\Debug\net7.0\again.pdb
+D:\projgit\again\obj\Debug\net7.0\again.csproj.AssemblyReference.cache
+D:\projgit\again\obj\Debug\net7.0\again.GeneratedMSBuildEditorConfig.editorconfig
+D:\projgit\again\obj\Debug\net7.0\again.AssemblyInfoInputs.cache
+D:\projgit\again\obj\Debug\net7.0\again.AssemblyInfo.cs
+D:\projgit\again\obj\Debug\net7.0\again.csproj.CoreCompileInputs.cache
+D:\projgit\again\obj\Debug\net7.0\again.dll
+D:\projgit\again\obj\Debug\net7.0\refint\again.dll
+D:\projgit\again\obj\Debug\net7.0\again.pdb
+D:\projgit\again\obj\Debug\net7.0\again.genruntimeconfig.cache
+D:\projgit\again\obj\Debug\net7.0\ref\again.dll
