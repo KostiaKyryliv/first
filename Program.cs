@@ -18,8 +18,8 @@ namespace again
                 System.Console.WriteLine("I love you too");
             }
             else
-            {
-                while(password != "love")
+            {                               
+                for(int i=0; i<3 || password != "love"; i++)
                 {
                     System.Console.WriteLine("enter again");
                     string newpassword = Console.ReadLine();
@@ -29,8 +29,11 @@ namespace again
                             break;
                         }
                 }
+                
             }
-        
+            System.Console.WriteLine("What is your name? ");
+            string name = Console.ReadLine();
+            System.Console.WriteLine("Nice  to meet you " + name);
         }
     }
 }
